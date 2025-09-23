@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.4">
+  <diagram name="Página-1" id="txkoZ9S2GVUk5eJXNYSL">
+    <mxGraphModel dx="1384" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-1" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sI-3u5VQC1GlCJNWJAg-2" target="-sI-3u5VQC1GlCJNWJAg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-2" value="ínicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sI-3u5VQC1GlCJNWJAg-3" target="-sI-3u5VQC1GlCJNWJAg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-3" value="Ler Kmi,Kmf,litrosG" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="280" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sI-3u5VQC1GlCJNWJAg-4" target="-sI-3u5VQC1GlCJNWJAg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-4" value="Resultado=&lt;div&gt;(100*litroG)/(Kmf-Kmi)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-sI-3u5VQC1GlCJNWJAg-7" target="-sI-3u5VQC1GlCJNWJAg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sI-3u5VQC1GlCJNWJAg-7" value="Escrever Resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="520" width="146" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
