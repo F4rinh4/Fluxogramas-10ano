@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0" version="28.2.4">
+  <diagram name="Página-1" id="IFmC9CH-1EMVfPQ3rzL9">
+    <mxGraphModel dx="1384" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-1" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-2" target="g8T7KrRqNlfmli6zGpQ5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-2" value="Ínicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-3" target="g8T7KrRqNlfmli6zGpQ5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-3" value="Contador = 0&lt;div&gt;Somatorio = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-5" target="g8T7KrRqNlfmli6zGpQ5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-5" value="Ler N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-7" target="g8T7KrRqNlfmli6zGpQ5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-7" value="Contador = Contador+1&lt;div&gt;Somatorio = Somatorio+N&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-9" target="g8T7KrRqNlfmli6zGpQ5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="585" />
+              <mxPoint x="620" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-12" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g8T7KrRqNlfmli6zGpQ5-11">
+          <mxGeometry x="0.0586" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-9" target="g8T7KrRqNlfmli6zGpQ5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-9" value="Somatorio&amp;gt;1000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="545" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8T7KrRqNlfmli6zGpQ5-13" target="g8T7KrRqNlfmli6zGpQ5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8T7KrRqNlfmli6zGpQ5-13" value="Escrever &quot;Escreveste&quot;,Contador,&amp;nbsp; &quot;números e amédia deu&quot;, Somatorio/Contador" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="670" width="478" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
